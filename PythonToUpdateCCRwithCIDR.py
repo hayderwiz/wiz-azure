@@ -18,8 +18,8 @@ last_ip = subnet.broadcast_address - 1
 HEADERS_AUTH = {"Content-Type": "application/x-www-form-urlencoded"}
 HEADERS = {"Content-Type": "application/json"}
 
-client_id = "wgxq75hrlndpbktx3eupevf2x2howniyuzyvxbmyofppqgz7qbgxg"
-client_secret = "7KQGM4NmLWj2fmwCpRvCO11Cy7AWTuxPMOVKMnASmlrz2U1nsh3YqIt3BIKFDxWo"
+client_id = "wgxq75h****************************************bgxg"
+client_secret = "7K*****************************************************o"
 
 # Uncomment the following section to define the proxies in your environment,
 #   if necessary:
