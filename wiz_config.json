@@ -1,7 +1,0 @@
-{	
-	"type": "wiz_service_account",
-	"wiz_api_url" : "changeMe",
-	"wiz_auth_url": "https://auth.app.wiz.io/oauth/token", 
-	"wiz_client_id": "changeMe",
-	"wiz_client_secret": "changeMe"
-}
